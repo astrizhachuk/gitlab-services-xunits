@@ -51,5 +51,6 @@
     </extension>
     <languageCode>ru</languageCode>
   </languages>
-  <commonModules>CommonModule.Тест_ОбщийМодуль</commonModules>
+  <commonModules>CommonModule.Тест_РаботаСИнтернетСервисамиКлиент</commonModules>
+  <commonModules>CommonModule.Тест_РаботаСИнтернетСервисамиСервер</commonModules>
 </mdclass:Configuration>
