@@ -53,4 +53,7 @@
   </languages>
   <commonModules>CommonModule.Тест_РаботаСИнтернетСервисамиКлиент</commonModules>
   <commonModules>CommonModule.Тест_РаботаСИнтернетСервисамиСервер</commonModules>
+  <commonModules>CommonModule.Тест_СправочникWebhooksСервер</commonModules>
+  <commonModules>CommonModule.Тест_СервисыGitLabСервер</commonModules>
+  <commonModules>CommonModule.Тест_ОбщийМодульСервер</commonModules>
 </mdclass:Configuration>
